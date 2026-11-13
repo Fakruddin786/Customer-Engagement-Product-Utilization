@@ -8,7 +8,7 @@ from dashboard import render_kpis, render_module_1, render_module_2, render_modu
 
 # Set page config
 st.set_page_config(
-    page_title="Customer Engagement & Retention",
+    page_title="Customer Engagement and Retention",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
